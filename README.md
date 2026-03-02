@@ -198,8 +198,8 @@ touch index.html script.js styles.css
 * ✔️ Create an **Internal Load Balancer for App Server**
 * ✔️ Create **Auto Scaling** for Web Server & App Server
 * ✔️ Draw Three-Tier Diagram using **Cloudcraft / draw.io**
-* ✔️ Read the **4-Part DR Strategies document**
+* ✔️ Read the **4-Part DR Strategies document https://aws.amazon.com/blogs/architecture/
 
 ---
 
-⭐ **Project Status:** Learning / Demo Implementation
+
