@@ -105,7 +105,7 @@
 ## **10. Command to Login to App Server**
 
 ```bash
-vi suriya.pem
+suriya-key.pem
 chmod 400 suriya-key.pem
 ssh -i suriya-key.pem ec2-user@10.0.4.162
 ```
