@@ -1,5 +1,5 @@
 
-<img width="1920" height="1080" alt="Architecture" src="https://github.com/user-attachments/assets/f8989bcf-3be3-4a8f-9d56-4f0e061e4683" />
+<img width="1536" height="1024" alt="ChatGPT Image May 15, 2026, 09_57_37 PM" src="https://github.com/user-attachments/assets/4bb953ab-3252-4603-8add-160f31dfd46b" />
 
 
 
@@ -61,7 +61,6 @@
 
 ### **🧪 Task**
 
-➡️ Instead of three Security Groups, **create five Security Groups**
 
 ---
 
