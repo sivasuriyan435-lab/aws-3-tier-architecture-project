@@ -59,7 +59,6 @@
 
 * Allow 3306 from AppServer-SG
 
-### **🧪 Task**
 
 
 ---
@@ -191,14 +190,6 @@ touch index.html script.js styles.css
 
 ---
 
-# **✅ Tasks to be Completed**
 
-* ✔️ Instead of three Security Groups create **five Security Groups**
-* ✔️ Create an **Internal Load Balancer for App Server**
-* ✔️ Create **Auto Scaling** for Web Server & App Server
-* ✔️ Draw Three-Tier Diagram using **Cloudcraft / draw.io**
-* ✔️ Read the **4-Part DR Strategies document https://aws.amazon.com/blogs/architecture/
-
----
 
 
