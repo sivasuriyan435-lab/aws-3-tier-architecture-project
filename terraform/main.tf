@@ -24,7 +24,7 @@ resource "aws_instance" "web_server" {
 
   associate_public_ip_address = true
 
-  key_name = "LearnWithMithran"
+  key_name = "Suriya-key"
 
   tags = {
     Name = "web-server"
@@ -49,7 +49,7 @@ resource "aws_instance" "app_server" {
   subnet_id              = aws_subnet.app_private_1.id
   vpc_security_group_ids = [aws_security_group.app_sg.id]
 
-  key_name = "LearnWithMithran"
+  key_name = Suriya-key"
 
   tags = {
     Name = "app-server"
